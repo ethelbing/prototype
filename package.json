@@ -7,6 +7,9 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@progress/kendo-barcodes-vue-wrapper": "^2019.3.1023",
+    "@progress/kendo-theme-default": "^4.9.0",
+    "@progress/kendo-ui": "^2019.3.1113",
     "core-js": "^3.3.2",
     "vue": "^2.6.10",
     "vue-class-component": "^7.0.2",
